@@ -37,10 +37,7 @@ If you'd like to contribute:
 4. Push to your fork (`git push origin feature-new-feature`).
 5. Open a **Pull Request**.
 
-## 📩 Contact
-For any queries or suggestions, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
+
 
 ---
 ⭐ **If you find this project useful, give it a star!** ⭐
